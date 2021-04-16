@@ -15,6 +15,7 @@ function Carlist() {
   }, []);
 
   const deleteCar = (url) => {
+    console.log(url);
     fetch(url, { method: "DELETE" }).then((response) => {
       if (response.ok) fetchCars();
       else alert("Something terrible happened");
