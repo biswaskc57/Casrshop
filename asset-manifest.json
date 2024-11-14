@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Casrshop/static/css/main.d25c55f7.css",
+    "main.js": "/Casrshop/static/js/main.5580e888.js",
+    "static/js/453.e252e23c.chunk.js": "/Casrshop/static/js/453.e252e23c.chunk.js",
+    "index.html": "/Casrshop/index.html",
+    "main.d25c55f7.css.map": "/Casrshop/static/css/main.d25c55f7.css.map",
+    "main.5580e888.js.map": "/Casrshop/static/js/main.5580e888.js.map",
+    "453.e252e23c.chunk.js.map": "/Casrshop/static/js/453.e252e23c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25c55f7.css",
+    "static/js/main.5580e888.js"
+  ]
+}
